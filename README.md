@@ -1,4 +1,2 @@
-# rndproj-77964osr
-
-Random java project for random.
-
+# rndproj-77964osr\n\nSmall log summarizer tool.\n
+New-FileDef
