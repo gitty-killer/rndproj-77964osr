@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-77964osr"",
-  ""goal"": ""index builder for workflow automation"",
-  ""language"": ""rust"",
-  ""template"": ""rust-cli""
+    "name":  "rndproj-77964osr",
+    "goal":  "index builder for workflow automation",
+    "language":  "rust",
+    "template":  "rust-cli"
 }
